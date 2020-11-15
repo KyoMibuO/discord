@@ -2086,7 +2086,7 @@ div.flex-spacer.flex-vertical form {
 }
 
 .layers {
-  background: rgba(0, 0, 0, 0) !important;
+  background: rgba(0, 0, 0, 1) !important;
 }
 
 .item-subMenu .context-menu .item.item-toggle {
