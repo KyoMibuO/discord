@@ -13904,7 +13904,7 @@ background-color: var(--Main-Colour);
 }
 
 .textArea-12jD-V.slateContainer-3Qkn2x > .markup-2BOw-j{
-  color: rgba(0,0,0,0);
+  color: var(--Chat-Input-Colour);
 }
 
 [role][aria-label]:not([aria-label="Spoiler"]):not([role="dialog"]) [style*="/assets/959a1978f7be567071a1354a98b46ecd.svg"]{
