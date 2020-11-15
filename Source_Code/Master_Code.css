@@ -49,7 +49,6 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
   --Update-Text: " Update #547";
-  --File-Updated-2020-5-24: url(https://nfld99.com/images/RDLTF.png);
   --Settings-Dock-Colour: var(--Main-Colour);
   --BetterDocsBlockerWhite: var(--Main-Colour);
   --BetterDocsBlockerBlack1: var(--Background-Colour);
@@ -629,7 +628,7 @@ form.deprecated.auth-form footer {
 }
 
 .btn-group {
-  opacity: 0.6 !important;
+  opacity: 0.3 !important;
 }
 
 .account .username {
@@ -2087,7 +2086,7 @@ div.flex-spacer.flex-vertical form {
 }
 
 .layers {
-  background: rgba(0, 0, 0, .5) !important;
+  background: rgba(0, 0, 0, 0) !important;
 }
 
 .item-subMenu .context-menu .item.item-toggle {
@@ -2512,7 +2511,7 @@ div.form-inner, .form-actions {
 }
 
 .itemBrand-mC9YR4 {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.2);
 }
 
 .separator-gCa7yv, #bd-settings-sidebar .ui-tab-bar-separator {
@@ -2536,7 +2535,7 @@ div.form-inner, .form-actions {
 }
 
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {
-  border-top: 2px solid rgba(28, 36, 43, .6);
+  border-top: 2px solid rgba(28, 36, 43, .1);
   box-sizing: border-box;
   background-color: var(--Background-Colour);
   border: 2px solid var(--Main-Colour);
@@ -2564,7 +2563,7 @@ div.form-inner, .form-actions {
 .theme-dark .search-results-wrap .search-result .hit {
   background-color: var(--Background-Colour);
   -webkit-box-shadow: 0 0 10px 6px #2f3136;
-  box-shadow: 0 0 10px 6px rgba(0, 216, 84, 0.6);
+  box-shadow: 0 0 10px 6px rgba(0, 216, 84, 0.1);
 }
 
 .theme-dark .search-results-wrap .search-result:after {
@@ -13905,7 +13904,7 @@ background-color: var(--Main-Colour);
 }
 
 .textArea-12jD-V.slateContainer-3Qkn2x > .markup-2BOw-j{
-  color: var(--Chat-Input-Colour);
+  color: rgba(0,0,0,0);
 }
 
 [role][aria-label]:not([aria-label="Spoiler"]):not([role="dialog"]) [style*="/assets/959a1978f7be567071a1354a98b46ecd.svg"]{
